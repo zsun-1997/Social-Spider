@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf066d9d-1d45-438d-90b6-fa3fb5de7f76" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iaoTUDXM5GNIuFzpsRUjxswhMv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../社会蜘蛛" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.show">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="social Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="social Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="social Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="newMain" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="social Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newMain.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="social Spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.show" />
+        <item itemvalue="Python.final" />
+        <item itemvalue="Python.newMain" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf066d9d-1d45-438d-90b6-fa3fb5de7f76" name="Default Changelist" comment="" />
+      <created>1602155071978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602155071978</updated>
+      <workItem from="1602155084468" duration="8250000" />
+      <workItem from="1602164375461" duration="359000" />
+      <workItem from="1602207409514" duration="19009000" />
+      <workItem from="1602249032796" duration="2223000" />
+      <workItem from="1602311257769" duration="3734000" />
+      <workItem from="1602333762969" duration="19826000" />
+      <workItem from="1602504028555" duration="2731000" />
+      <workItem from="1602507336723" duration="421000" />
+      <workItem from="1602556094160" duration="5000" />
+      <workItem from="1602590958787" duration="5042000" />
+      <workItem from="1602657288125" duration="12901000" />
+      <workItem from="1602722816391" duration="4000" />
+      <workItem from="1602933739771" duration="4336000" />
+      <workItem from="1602938277496" duration="3441000" />
+      <workItem from="1603105334290" duration="23122000" />
+      <workItem from="1603179480047" duration="4119000" />
+      <workItem from="1603191108342" duration="305000" />
+      <workItem from="1603197207619" duration="3557000" />
+      <workItem from="1603592383731" duration="85000" />
+      <workItem from="1604885432687" duration="7029000" />
+      <workItem from="1604921872824" duration="17757000" />
+      <workItem from="1604995912234" duration="129000" />
+      <workItem from="1604996240268" duration="499000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1602155154483">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1602155154483" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604977150208">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1604977150208" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1603592448526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603592448526" />
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state width="1493" height="204" key="GridCell.Tab.0.center" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state width="1493" height="204" key="GridCell.Tab.0.left" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state width="1493" height="204" key="GridCell.Tab.0.right" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state width="1493" height="204" key="GridCell.Tab.1.bottom" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state width="1493" height="204" key="GridCell.Tab.1.center" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state width="1493" height="204" key="GridCell.Tab.1.left" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state width="1493" height="204" key="GridCell.Tab.1.right" timestamp="1604991066843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="204" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1604991066843" />
+    <state x="270" y="54" key="SettingsEditor" timestamp="1603197611993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="54" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603197611993" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603114720312">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603114720312" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/social_Spider$newMain.coverage" NAME="newMain Coverage Results" MODIFIED="1602935460001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/social_Spider$final.coverage" NAME="final Coverage Results" MODIFIED="1603105588085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/social_Spider$show.coverage" NAME="show Coverage Results" MODIFIED="1604991059781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/social_Spider$main.coverage" NAME="main Coverage Results" MODIFIED="1602675600781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
